@@ -9,7 +9,7 @@ Repositorio principal de RoboFactory
 * [Hexakiller](https://github.com/asrob-uc3m/hexakiller) - Robot hexápodo
 
 ## Proyectos en migración:
-* [Maquiavelo] (https://github.com/asrob-uc3m/Maquiavelo) -> [Velocistas](https://github.com/asrob-uc3m/velocistas)
+* [Maquiavelo](https://github.com/asrob-uc3m/Maquiavelo) -> [Velocistas](https://github.com/asrob-uc3m/velocistas)
 * [Piece of Cake](https://github.com/asrob-uc3m/piece-of-cake) -> [Velocistas](https://github.com/asrob-uc3m/velocistas)
 * [ASROB-racing](https://github.com/asrob-uc3m/ASROB-racing) -> [Velocistas](https://github.com/asrob-uc3m/velocistas)
 
